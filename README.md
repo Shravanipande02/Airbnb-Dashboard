@@ -3,7 +3,7 @@
 This project focuses on analyzing Airbnb listings data using Power BI to uncover pricing patterns, availability trends, and neighborhood-based insights.
 The goal is to transform raw data into meaningful visualizations that help understand market behavior and support data-driven decision making.
 
-Dataset Information
+# Dataset Information
 
 Source: Airbnb Listings Dataset (CSV format)
 
@@ -17,7 +17,7 @@ Neighborhood and location data
 
 Availability and review statistics
 
-Key Columns
+# Key Columns
 
 price – Cost per night
 
@@ -31,7 +31,7 @@ number_of_reviews – Total reviews
 
 availability_365 – Days available in a year
 
-Dashboard Highlights
+# Dashboard Highlights
 
 The Power BI dashboard provides insights such as:
 
