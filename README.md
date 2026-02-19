@@ -1,4 +1,4 @@
-# Airbnb-Dashboard
+# Airbnb_Dashboard
 
 This project focuses on analyzing Airbnb listings data using Power BI to uncover pricing patterns, availability trends, and neighborhood-based insights.
 The goal is to transform raw data into meaningful visualizations that help understand market behavior and support data-driven decision making.
